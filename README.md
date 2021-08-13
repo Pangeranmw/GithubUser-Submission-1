@@ -20,6 +20,10 @@ Submission ke-1 Dicoding Kelas Android Fundamental, membuat aplikasi sederhana u
      alt="Detail"
      style="float: left; margin-right: 10px;"
      width="200" />
+<img src="https://github.com/Pangeranmw/GithubUser-Submission-1/blob/main/image/edit-text.jpeg"
+     alt="Detail Find Repo"
+     style="float: left; margin-right: 10px;"
+     width="200" />
      
 ### Fitur
 - [x] Menerapkan Recycler View
